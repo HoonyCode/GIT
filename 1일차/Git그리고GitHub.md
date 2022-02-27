@@ -30,7 +30,7 @@
 
 이메일과 사용자 정보를 입력하고 가입합니다.
 
-![Signup2](./Signup2.png)
+![Signup2](./signup2.png)
 
 실습을 위한 기본 준비 끝!
 
